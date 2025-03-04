@@ -26,10 +26,11 @@ Step 5. Preview.
 To find a pool of qualified candidates who align with the job requirements and company.
 
 ## Contributing
-Contributions can go along way for a person thats trying to find their way.
+Tutoring Sessions helped me alot but i definitely can use more help.
 
 
 ## Link
+https://drive.google.com/file/d/1CXCOeml-8PCDzTGpV3Aj7xt0JkbHZ84J/view
 
 ## Questions
 If you have any questions feel free to reach me at the following:
