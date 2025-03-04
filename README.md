@@ -5,19 +5,23 @@ Here's a way to find potential job candidates for a company. Every company has s
 
 ## Table of Contents
 - [Getting Started](#GettingStarted)
-- [Cause](#Cause)
+- [Usage](#Usage)
 - [Contributing](#Contributing)
-- [Links](#Links)
+- [Link](#Link)
 - [Questions](#Questions)
         
 ## Getting Started
 Step 1. Create a .env file with your GitHub API token.
 
-Step 2. Run create vite in the terminal and use the react typrscript framework.
+Step 2. Run npm create vite in the terminal and use the react typrscript framework.
 
-Step 3. 
+Step 3. Run npm run dev.
 
-## Cause
+step 4. Click follow link in the terminal.
+
+Step 5. Preview.
+
+## Usage
 
 
 
