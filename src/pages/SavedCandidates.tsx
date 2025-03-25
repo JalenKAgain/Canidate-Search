@@ -29,7 +29,7 @@ const SavedCandidates = () => {
     <>
       <section id='searchName'>
         <form
-          // TODO: Add correct type to event
+      
           onSubmit={(event) => setSavedCandidates(event, searchInput)}
         >
           <input
